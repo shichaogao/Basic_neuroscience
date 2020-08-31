@@ -1,2 +1,2 @@
 # Basic_neuroscience
-miscellaneous essentials of our brain.Brain circuits, neural plasticity, systems neuroscience.
+Miscellaneous essentials of our brain.Brain circuits, neural plasticity, systems neuroscience.
